@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: UNDERDOG SECURITY
 description: "Underdog Security is a UK based cybersecurity consultancy firm specializing in penetration testing, secure code review and social engineering."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
