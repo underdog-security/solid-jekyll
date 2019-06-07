@@ -107,7 +107,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Underdog Security is a UK based cybersecurity consultancy firm. Penetration testing, secure code review and social engineering."
+about: "Underdog Security is a UK based cybersecurity consultancy firm specializing in penetration testing, secure code review and social engineering."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
