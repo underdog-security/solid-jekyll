@@ -8,6 +8,8 @@ thumb: thumb01.jpg
 description: "Hello, and welcome! As you probably gathered by the title, today we will be going over a remote command execution vulnerability identified in EA's Origin desktop client. This issue was both identified and reported by Dominik Penner and Daley Bee of Underdog Security."
 ---
 
+{% include twitter_card.html %}
+
 Hello, and welcome! As you probably gathered by the title, today we will be going over a remote command execution vulnerability identified in EA's Origin desktop client. This issue was both identified and reported by Dominik Penner and Daley Bee of Underdog Security.
 <!--more-->
 
