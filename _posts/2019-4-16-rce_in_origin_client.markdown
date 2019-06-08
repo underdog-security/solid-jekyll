@@ -2,7 +2,7 @@
 layout: post
 title: "RCE in EA's Origin client"
 date: 2019-04-16
-author: Admin
+author: Daley Bee
 img: post01.jpg
 thumb: thumb01.jpg
 description: "Hello, and welcome! As you probably gathered by the title, today we will be going over a remote command execution vulnerability identified in EA's Origin desktop client. This issue was both identified and reported by Dominik Penner and Daley Bee of Underdog Security."
