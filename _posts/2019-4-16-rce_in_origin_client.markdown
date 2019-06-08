@@ -9,6 +9,7 @@ description: "Hello, and welcome! As you probably gathered by the title, today w
 ---
 
 Hello, and welcome! As you probably gathered by the title, today we will be going over a remote command execution vulnerability identified in EA's Origin desktop client. This issue was both identified and reported by Dominik Penner and Daley Bee of Underdog Security.
+<!--more-->
 
 ### What is Origin?
 Origin is an online gaming, digital distribution and digital rights management platform developed by Electronic Arts that allows users to purchase games for PC and mobile platforms. Origin is home to gaming title giants such as Apex Legends, The Sims, and Battlefield. 
