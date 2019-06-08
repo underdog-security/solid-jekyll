@@ -65,8 +65,6 @@ origin2://game/launch?offerIds=0&title={{a=toString().constructor.prototype;a.ch
 {% endraw %}
 {% endhighlight %}
 
-{% include vimeoPlayer.html id=page.vimeoId %}
-
 As normal with an RCE, this would've allowed an attacker to execute any kind of commands their heart desired on a targets machine. Not good to say the least...
 
 An attacker could also steal a users access token many of ways, for example, through LDAP: 
