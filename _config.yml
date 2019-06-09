@@ -58,7 +58,7 @@ members:
       - title: envelope #use for email address
         url: mailto:daley@underdogsecurity.com
       - title: twitter
-        url: http://twitter.com/daley
+        url: https://twitter.com/daley
   - name: Dominik Penner
     position: Director
     text: Dominik is an avid secrutiy researcher and developer.
@@ -67,7 +67,7 @@ members:
       - title: envelope #use for email address
         url: mailto:dominik@underdogsecurity.com
       - title: twitter
-        url: http://twitter.com/zer0pwn
+        url: https://twitter.com/zer0pwn
   - name: Jake Bolam
     position: Director
     text: Jake is an avid secrutiy researcher and developer.
@@ -76,7 +76,7 @@ members:
       - title: envelope #use for email address
         url: mailto:jake@underdogsecurity.com
       - title: twitter
-        url: http://twitter.com/jake_sec
+        url: https://twitter.com/jake_sec
   - name: Timothy French
     position: Director
     text: Timothy is an avid secrutiy researcher and developer.
@@ -85,7 +85,7 @@ members:
       - title: envelope #use for email address
         url: mailto:timothy@underdogsecurity.com
       - title: twitter
-        url: http://twitter.com/leet_sauce
+        url: https://twitter.com/leet_sauce
 
 # Clients information. Shown on Home and About pages.
 clients:
