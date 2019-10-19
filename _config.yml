@@ -61,7 +61,7 @@ members:
         url: https://twitter.com/daley
   - name: Dominik Penner
     position: Director
-    text: Dominik is an avid security researcher and developer.  
+    text: purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis  
     img: 
     social:
       - title: envelope #use for email address
@@ -70,7 +70,7 @@ members:
         url: https://twitter.com/zer0pwn
   - name: Jake Bolam
     position: Director
-    text: Jake is an avid security researcher and developer. 
+    text: purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis
     img: 
     social:
       - title: envelope #use for email address
@@ -79,7 +79,7 @@ members:
         url: https://twitter.com/jake_sec
   - name: Timothy French
     position: Director
-    text: Timothy is an avid security researcher and developer.
+    text: purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis
     img: 
     social:
       - title: envelope #use for email address
