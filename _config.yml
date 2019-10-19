@@ -52,7 +52,7 @@ email: info@underdogsecurity.com
 members:
   - name: Daley Bee
     position: Director
-    text: Daley is an avid security researcher and developer with a main focus on web-application security, open source intelligence, threat intelligence and exploit development. 
+    text: Daley is an experienced security researcher and penetration tester with a main focus on web application security, exploit development and open source intelligence. 
     img: 
     social:
       - title: envelope #use for email address
@@ -61,7 +61,7 @@ members:
         url: https://twitter.com/daley
   - name: Dominik Penner
     position: Director
-    text: Dominik is an avid security researcher and developer. 
+    text: Dominik is an avid security researcher and developer.  
     img: 
     social:
       - title: envelope #use for email address
