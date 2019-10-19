@@ -53,7 +53,7 @@ members:
   - name: Daley Bee
     position: Director
     text: Daley is an avid security researcher and developer. 
-    img: team01.jpg
+    img: 
     social:
       - title: envelope #use for email address
         url: mailto:daley@underdogsecurity.com
@@ -62,7 +62,7 @@ members:
   - name: Dominik Penner
     position: Director
     text: Dominik is an avid security researcher and developer. 
-    img: team02.jpg
+    img: 
     social:
       - title: envelope #use for email address
         url: mailto:dominik@underdogsecurity.com
@@ -71,7 +71,7 @@ members:
   - name: Jake Bolam
     position: Director
     text: Jake is an avid security researcher and developer. 
-    img: team03.jpg
+    img: 
     social:
       - title: envelope #use for email address
         url: mailto:jake@underdogsecurity.com
@@ -79,8 +79,8 @@ members:
         url: https://twitter.com/jake_sec
   - name: Timothy French
     position: Director
-    text: Timothy is an avid security researcher and developer. .
-    img: team04.jpg
+    text: Timothy is an avid security researcher and developer.
+    img: 
     social:
       - title: envelope #use for email address
         url: mailto:timothy@underdogsecurity.com
